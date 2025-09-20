@@ -1,0 +1,11 @@
+body.dark {
+  background-color: #222;
+  color: #fff;
+}
+
+.faq-answer {
+  display: none;
+  margin: 5px 0;
+  padding: 5px;
+  border-left: 3px solid #ccc;
+}
